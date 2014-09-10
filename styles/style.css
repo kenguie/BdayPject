@@ -81,3 +81,19 @@ footer {
     font-size: .75em;
     text-align: center;
 }
+
+
+/*------------New for page 2--------------------*/
+
+.p2Top h1 {
+    font-family: 'Playball', serif;
+    font-size: 3.5em;
+    color: lightcyan;
+    text-decoration: underline;
+}
+
+.entries {
+    height: 500px;
+    width: 49.5%;
+    display: inline-block;
+}

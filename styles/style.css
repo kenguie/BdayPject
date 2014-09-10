@@ -1,3 +1,83 @@
 * {
     border: 1px solid orange;
 }
+
+.bodyContainer {
+    width:950px;
+    margin: 0 auto;
+    
+}
+
+body {
+    background: linear-gradient(to right, #FC7E7B, #AABFE4);
+}
+
+.topBar h1 {
+    font-family: 'Playball', serif;
+    font-size: 2.5em;
+}
+
+#indent {
+    margin-left: 15%;
+}
+
+nav ul {
+    text-decoration: none;
+    padding: 0;
+    width: 100%;
+}
+
+nav ul li {
+    display: inline-block;
+    font-size: 1.75em;
+    border: 2px solid red;
+    border-radius: 5px;
+    background-color: lightseagreen;
+    padding: 5px;
+    width: 31%;
+    text-align: center;
+    opacity: .75;
+}
+
+.button a{
+    text-decoration: none;
+    color: black;
+    font-family: serif;
+}
+
+.button:hover {
+    border: 2px solid orange;
+}
+
+.recentPhoto img {
+    height:450px;
+    display: block;
+    margin: 50px auto 50px auto;
+}
+
+.textContainer {
+    width: 90%;
+    margin: 0 auto;
+    font-family: 'Playball', serif;
+    font-size: 1.3em;
+}
+
+p {
+    text-indent: 50px;
+}
+
+.text3 {
+    font-size: 1.25em;
+    color: lightgreen;
+}
+
+.oldPhoto img {
+    height:360px;
+    display: block;
+    margin: 50px auto 50px auto;
+}
+
+footer {
+    font-size: .75em;
+    text-align: center;
+}

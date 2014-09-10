@@ -1,6 +1,6 @@
-* {
+/* {
     border: 1px solid orange;
-}
+} */
 
 .bodyContainer {
     width:950px;
@@ -25,6 +25,7 @@ nav ul {
     text-decoration: none;
     padding: 0;
     width: 100%;
+    margin: 15px 7px;
 }
 
 nav ul li {
@@ -62,13 +63,17 @@ nav ul li {
     font-size: 1.3em;
 }
 
-p {
+.recentStory .textContainer p {
     text-indent: 50px;
 }
 
 .text3 {
     font-size: 1.25em;
     color: lightgreen;
+}
+
+.text4 {
+    text-indent: 50px;
 }
 
 .oldPhoto img {
@@ -92,8 +97,68 @@ footer {
     text-decoration: underline;
 }
 
+.entryContainer {
+    width: 950px;
+}
+
 .entries {
     height: 500px;
     width: 49.5%;
     display: inline-block;
+    /*float:left;*/
+    border: 1px solid black;
+}
+
+.entries img {
+    height:300px;
+    float: left;
+    margin: 35px;
+}
+
+.entries p {
+    font-family: 'Noto Serif', serif;
+    font-size: 1.25em;
+    margin-right: 15px;
+    margin-top: 34px;
+    text-align: center;
+     word-wrap: break-word;
+}
+
+.entries1 {
+    height: 500px;
+    width: 49.5%;
+    display: inline-block;
+    border: 1px solid black;    
+}
+
+.entries1 p {
+    font-family: 'Noto Serif', serif;
+    font-size: 1.25em;
+    margin-right: 15px;
+    /*margin-top: 88px;*/
+    text-align: center;
+}
+
+.entries1 img {
+    height:300px;
+    float: left;
+    margin: 35px;
+}
+
+.oneMore {
+    border: 1px solid black;
+    height: 500px;
+    text-align: center;
+}
+
+.oneMore img {
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+    margin: 15px auto 15px auto;
+}
+
+.oneMore p {
+    font-family: 'Noto Serif', serif;
+    font-size: 1.25em;
 }

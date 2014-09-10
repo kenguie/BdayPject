@@ -141,3 +141,12 @@ footer {
     font-family: 'Noto Serif', serif;
     font-size: 1.25em;
 }
+
+/*------------New for page 3--------------------*/
+
+.p3Top h1 {
+    font-family: 'Playball', serif;
+    font-size: 3.5em;
+    color: rgb(10, 109, 62);
+    text-decoration: underline;
+}

@@ -124,27 +124,6 @@ footer {
      word-wrap: break-word;
 }
 
-.entries1 {
-    height: 500px;
-    width: 49.5%;
-    display: inline-block;
-    border: 1px solid black;    
-}
-
-.entries1 p {
-    font-family: 'Noto Serif', serif;
-    font-size: 1.25em;
-    margin-right: 15px;
-    /*margin-top: 88px;*/
-    text-align: center;
-}
-
-.entries1 img {
-    height:300px;
-    float: left;
-    margin: 35px;
-}
-
 .oneMore {
     border: 1px solid black;
     height: 500px;

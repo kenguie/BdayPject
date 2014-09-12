@@ -136,6 +136,30 @@ footer {
      word-wrap: break-word;
 }
 
+.entries1 {
+    height: 500px;
+    width: 49.5%;
+    display: inline-block;
+    /*float:left;*/
+    border: 1px solid black;
+}
+
+.entries1 img {
+    height:300px;
+    float: left;
+    margin: 35px;
+}
+
+.entries1 p {
+    font-family: 'Noto Serif', serif;
+    font-size: 1.25em;
+    /*margin-right: 15px; */
+    padding-right: 18px;
+    margin-top: 34px;
+    text-align: center;
+     word-wrap: break-word;
+}
+
 .oneMore {
     border: 1px solid black;
     height: 500px;

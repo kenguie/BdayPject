@@ -38,6 +38,10 @@ nav ul li {
     width: 31%;
     text-align: center;
     opacity: .75;
+    
+    -webkit-box-shadow: 17px 14px 27px 5px rgba(161,69,106,1);
+    -moz-box-shadow: 17px 14px 27px 5px rgba(161,69,106,1);
+    box-shadow: 17px 14px 27px 5px rgba(161,69,106,1);
 }
 
 .button a{
@@ -54,6 +58,10 @@ nav ul li {
     height:450px;
     display: block;
     margin: 50px auto 50px auto;
+    
+    -webkit-box-shadow: 17px 14px 27px 5px rgba(161,69,106,1);
+    -moz-box-shadow: 17px 14px 27px 5px rgba(161,69,106,1);
+    box-shadow: 17px 14px 27px 5px rgba(161,69,106,1);
 }
 
 .textContainer {
@@ -80,6 +88,10 @@ nav ul li {
     height:360px;
     display: block;
     margin: 50px auto 50px auto;
+    
+    -webkit-box-shadow: 17px 14px 27px 5px rgba(161,69,106,1);
+    -moz-box-shadow: 17px 14px 27px 5px rgba(161,69,106,1);
+    box-shadow: 17px 14px 27px 5px rgba(161,69,106,1);
 }
 
 footer {
